@@ -5,6 +5,11 @@ import br.com.etechoracio.livraria.enums.TipoCapa;
 
 public class CriaLivro {
     public static void main(String[] args) {
+        //DescontoFixo oi= new DescontoPercentual();
+
+
+
+
         Editora rocco = new Editora();
         rocco.nome = "Rocco";
         rocco.site = "rocco.com.br";

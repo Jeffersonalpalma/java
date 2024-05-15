@@ -12,6 +12,7 @@ public abstract class Livro implements Exemplar{
     private double total;
 
     public void exibir(){
+
         System.out.println("--------------------");
         System.out.println("Detalhes do livro");
         System.out.println("--------------------");
